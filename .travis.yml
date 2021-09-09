@@ -1,7 +1,7 @@
 language: generic
 
 sudo: required
-jobs:
+services:
   - docker
 
 before_install:
